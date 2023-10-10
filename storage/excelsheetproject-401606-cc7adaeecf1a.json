@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "excelsheetproject-401606",
+  "private_key_id": "cc7adaeecf1a56f23a3eb1005bbbc1b9c9b5efce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCh1u8gEv9furFh\nprtmxjSoygIqEFAk9Ucna5U9ITS8wo6lAklA3aoCNh7+mjetiz+aUTHgrJn6Eeo1\nzszNLyg6pSZcxloF/xE0LNNMfUDVnA8UevNHGKMcWZT2iQmIIWa35iGJ3eRposBK\nCwIARjjcVr1Fp76yrpSHnEKkV6c99FGPHv5ertL64v+7yhRtSZrlXlZOuv15vmb8\nJYh5fsnN8cl3D5koWon02d95igduGinQGgcYXz6HGUuYFdFuwCRxoDZd7ov1zHna\n0sp56n09hqLmFFFbsnWKp1pq8PRanPWk1f6mM0tw0knV/u9mB3+t2Pg43/yQ106X\n7Kqbq/tLAgMBAAECggEAT0PoscJsPpQ/Xa8eeStZzlPGdJix0DAr7fREz4BshokZ\n+VqhyznmExgz3Qpme8LIX4omDj8rWS4eEsWbTGGs5/BMVkM2A1rWr8HGqd9s+lJp\nlmPTtH4uIWwEyCz9NKX7W9XElnRN86kpWfqDO+Qo5E49fJi4j2ZvS+4uO7TMrkwr\n19p4Ftb+ZrTgrU7GVIPVXw7Re3LAu4BhXl8gleLB9N4VSU8CJb9cefozuMqrlb8D\n1BkTIdFrsj9DP3qtMpbTSA+J8RQiIAKvkUX9KwF9Rjcnzr7fR5km45fgNxKpHRV4\n6xpXfKNcuJBeaanuHRFmdveptKALW4CGSyHJr0VmnQKBgQDeoWtBtg13SepIPDrg\nnccEss6qtCCnQwLmqlfxPD/HEXXQmSyv5E9gEdtC9iYdVrY50bPnc7jFTvvMOvOZ\n4b3a60XEvr9EBWJfx1B2JgDRwufGglfK4T+I0iXjsjTylNyL4FcL3GL64Qn9Uv1t\nDq0h3ZlkEvSEUpyr9Qf+OrtgHwKBgQC6GOYM7+f/sWBGY5Lr/UWdhA6NK+TOXKeg\noUxllHqXsViiu5TkRm2eZ8Oz/zvj/qtv0cLXIp03x3+KLjoFtcmH6/IuRa36NpV/\n6TwaH3wh/RJSQW24PMV1cBxF1BpoJ8Xwq/UUfiTT4tFvWCGReH2qYPxeQntc6Cep\n0B4N38TPVQKBgA33FDJQCDI2acLUPGFApG5QBRTCLdYwJutvPgr824dSOhC2uw3h\nhXUiSZ2+sQ9gFBg2ZlGbebiuxq699+/sMCueXIcF7BuJNu2JJCv1IFIIJt/V50nr\nrT+Y5xWMZTPeUKNZlDxDO9Y+7ZB9dzYzGHsqWmfjpID0aa2DtlelOYHDAoGBALcc\nKrhOEsQn3uhDr9wekLIlrz+/EdrvlkzaiVZmG55I9ULiOeXHWrMDvK/OkzqKaluT\nVRjkSTgKR3dKdvMJZSwlwF1BWKebr8x1TRsTIcw7vBxNns0qlswwLNGUmwsjH4Pp\nXzPzzv7h7luVpyoBGf1cgtWoqsPG9sgDLJ9QL9IlAoGATZmCmy8XfmM5j65OkIYK\nRcVfadLwS4Ln+Wml+Q4/sTD4Bpcr4Bzc/icXc0j0KInjFGgn+ZXaJqIyU1XxCWzM\n8tMZsSEMpqhui8dk659/FQyj8O7QyKF2q79yogukFR3fxebJZUIYc0C+qSx6iR0Q\nsBAvE+2N2MsLV09V4VNRkyQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet-api@excelsheetproject-401606.iam.gserviceaccount.com",
+  "client_id": "104668460984973634003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet-api%40excelsheetproject-401606.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
